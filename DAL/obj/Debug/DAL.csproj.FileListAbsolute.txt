@@ -1,0 +1,11 @@
+C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\DAL.dll
+C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\DAL.pdb
+C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\BOL.dll
+C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\EntityFramework.dll
+C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\BOL.pdb
+C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\BOL.dll.config
+C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\EntityFramework.xml
+C:\Users\skybl\source\repos\linkhub\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\skybl\source\repos\linkhub\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\skybl\source\repos\linkhub\DAL\obj\Debug\DAL.dll
+C:\Users\skybl\source\repos\linkhub\DAL\obj\Debug\DAL.pdb
