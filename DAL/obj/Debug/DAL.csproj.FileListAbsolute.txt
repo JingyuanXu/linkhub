@@ -1,3 +1,30 @@
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Debug\DAL.dll
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Debug\DAL.pdb
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Debug\BOL.dll
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Debug\EntityFramework.dll
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Debug\BOL.pdb
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Debug\EntityFramework.xml
+D:\Video Tutorial\MVC Project\Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Video Tutorial\MVC Project\Project\DAL\obj\Debug\DAL.dll
+D:\Video Tutorial\MVC Project\Project\DAL\obj\Debug\DAL.pdb
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\bin\Debug\DAL.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\bin\Debug\DAL.pdb
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\bin\Debug\BOL.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\bin\Debug\EntityFramework.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\bin\Debug\BOL.pdb
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\bin\Debug\EntityFramework.xml
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\obj\Debug\DAL.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\DAL\obj\Debug\DAL.pdb
+F:\MVC Project\Project\DAL\bin\Debug\DAL.dll
+F:\MVC Project\Project\DAL\bin\Debug\DAL.pdb
+F:\MVC Project\Project\DAL\bin\Debug\BOL.dll
+F:\MVC Project\Project\DAL\bin\Debug\EntityFramework.dll
+F:\MVC Project\Project\DAL\bin\Debug\BOL.pdb
+F:\MVC Project\Project\DAL\bin\Debug\EntityFramework.xml
+F:\MVC Project\Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\MVC Project\Project\DAL\obj\Debug\DAL.dll
+F:\MVC Project\Project\DAL\obj\Debug\DAL.pdb
 C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\DAL.dll
 C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\DAL.pdb
 C:\Users\skybl\source\repos\linkhub\DAL\bin\Debug\BOL.dll

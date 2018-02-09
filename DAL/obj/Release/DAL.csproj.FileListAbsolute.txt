@@ -1,0 +1,47 @@
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Release\DAL.dll
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Release\DAL.pdb
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Release\BOL.dll
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Release\EntityFramework.dll
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Release\BOL.pdb
+D:\Video Tutorial\MVC Project\Project\DAL\bin\Release\EntityFramework.xml
+D:\Video Tutorial\MVC Project\Project\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Video Tutorial\MVC Project\Project\DAL\obj\Release\DAL.dll
+D:\Video Tutorial\MVC Project\Project\DAL\obj\Release\DAL.pdb
+F:\MVC Project\Project\DAL\bin\Release\DAL.dll
+F:\MVC Project\Project\DAL\bin\Release\DAL.pdb
+F:\MVC Project\Project\DAL\bin\Release\BOL.dll
+F:\MVC Project\Project\DAL\bin\Release\EntityFramework.dll
+F:\MVC Project\Project\DAL\bin\Release\BOL.pdb
+F:\MVC Project\Project\DAL\bin\Release\EntityFramework.xml
+F:\MVC Project\Project\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\MVC Project\Project\DAL\obj\Release\DAL.dll
+F:\MVC Project\Project\DAL\obj\Release\DAL.pdb
+F:\Downloads\Project-Advanced\Project\DAL\bin\Release\DAL.dll
+F:\Downloads\Project-Advanced\Project\DAL\bin\Release\DAL.pdb
+F:\Downloads\Project-Advanced\Project\DAL\bin\Release\BOL.dll
+F:\Downloads\Project-Advanced\Project\DAL\bin\Release\EntityFramework.dll
+F:\Downloads\Project-Advanced\Project\DAL\bin\Release\BOL.pdb
+F:\Downloads\Project-Advanced\Project\DAL\bin\Release\EntityFramework.xml
+F:\Downloads\Project-Advanced\Project\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\Downloads\Project-Advanced\Project\DAL\obj\Release\DAL.dll
+F:\Downloads\Project-Advanced\Project\DAL\obj\Release\DAL.pdb
+F:\MVC Project\Project-Advanced\Project\DAL\bin\Release\DAL.dll
+F:\MVC Project\Project-Advanced\Project\DAL\bin\Release\DAL.pdb
+F:\MVC Project\Project-Advanced\Project\DAL\bin\Release\BOL.dll
+F:\MVC Project\Project-Advanced\Project\DAL\bin\Release\EntityFramework.dll
+F:\MVC Project\Project-Advanced\Project\DAL\bin\Release\BOL.pdb
+F:\MVC Project\Project-Advanced\Project\DAL\bin\Release\EntityFramework.xml
+F:\MVC Project\Project-Advanced\Project\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\MVC Project\Project-Advanced\Project\DAL\obj\Release\DAL.dll
+F:\MVC Project\Project-Advanced\Project\DAL\obj\Release\DAL.pdb
+D:\webdownload\Project-Advanced\Project\DAL\bin\Release\DAL.dll
+D:\webdownload\Project-Advanced\Project\DAL\bin\Release\DAL.pdb
+D:\webdownload\Project-Advanced\Project\DAL\bin\Release\BOL.dll
+D:\webdownload\Project-Advanced\Project\DAL\bin\Release\EntityFramework.dll
+D:\webdownload\Project-Advanced\Project\DAL\bin\Release\BOL.pdb
+D:\webdownload\Project-Advanced\Project\DAL\bin\Release\BOL.dll.config
+D:\webdownload\Project-Advanced\Project\DAL\bin\Release\EntityFramework.xml
+D:\webdownload\Project-Advanced\Project\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\webdownload\Project-Advanced\Project\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\webdownload\Project-Advanced\Project\DAL\obj\Release\DAL.dll
+D:\webdownload\Project-Advanced\Project\DAL\obj\Release\DAL.pdb

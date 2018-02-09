@@ -1,10 +1,37 @@
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Debug\EntityFramework.xml
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Debug\EntityFramework.dll
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Video Tutorial\MVC Project\Project\BOL\obj\Debug\BOL.dll
+D:\Video Tutorial\MVC Project\Project\BOL\obj\Debug\BOL.pdb
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Debug\BOL.dll.config
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Debug\BOL.dll
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Debug\BOL.pdb
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\bin\Debug\BOL.dll.config
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\bin\Debug\BOL.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\bin\Debug\BOL.pdb
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\bin\Debug\EntityFramework.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\bin\Debug\EntityFramework.xml
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\obj\Debug\BOL.dll
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\obj\Debug\BOL.pdb
+D:\Video Tutorial\MVC Project\Project - V2 - Copy\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+F:\MVC Project\Project\BOL\bin\Debug\BOL.dll.config
+F:\MVC Project\Project\BOL\bin\Debug\BOL.dll
+F:\MVC Project\Project\BOL\bin\Debug\BOL.pdb
+F:\MVC Project\Project\BOL\bin\Debug\EntityFramework.dll
+F:\MVC Project\Project\BOL\bin\Debug\EntityFramework.SqlServer.dll
+F:\MVC Project\Project\BOL\bin\Debug\EntityFramework.xml
+F:\MVC Project\Project\BOL\bin\Debug\EntityFramework.SqlServer.xml
+F:\MVC Project\Project\BOL\obj\Debug\BOL.dll
+F:\MVC Project\Project\BOL\obj\Debug\BOL.pdb
 C:\Users\skybl\source\repos\linkhub\BOL\bin\Debug\BOL.dll.config
 C:\Users\skybl\source\repos\linkhub\BOL\bin\Debug\BOL.dll
 C:\Users\skybl\source\repos\linkhub\BOL\bin\Debug\BOL.pdb
-C:\Users\skybl\source\repos\linkhub\BOL\bin\Debug\EntityFramework.dll
-C:\Users\skybl\source\repos\linkhub\BOL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\skybl\source\repos\linkhub\BOL\bin\Debug\EntityFramework.xml
 C:\Users\skybl\source\repos\linkhub\BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\skybl\source\repos\linkhub\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
 C:\Users\skybl\source\repos\linkhub\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
 C:\Users\skybl\source\repos\linkhub\BOL\obj\Debug\BOL.dll
 C:\Users\skybl\source\repos\linkhub\BOL\obj\Debug\BOL.pdb

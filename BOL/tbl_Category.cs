@@ -7,6 +7,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using System.ComponentModel.DataAnnotations;
+
 namespace BOL
 {
     using System;
@@ -14,17 +16,17 @@ namespace BOL
     
     public partial class tbl_Category
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public tbl_Category()
         {
             this.tbl_Url = new HashSet<tbl_Url>();
         }
     
         public int CategoryId { get; set; }
+        [Required]
         public string CategoryName { get; set; }
+        [Required]
         public string CategoryDesc { get; set; }
     
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<tbl_Url> tbl_Url { get; set; }
     }
 }

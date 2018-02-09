@@ -1,0 +1,48 @@
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Release\BOL.dll.config
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Release\BOL.dll
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Release\BOL.pdb
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Release\EntityFramework.dll
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Release\EntityFramework.SqlServer.dll
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Release\EntityFramework.xml
+D:\Video Tutorial\MVC Project\Project\BOL\bin\Release\EntityFramework.SqlServer.xml
+D:\Video Tutorial\MVC Project\Project\BOL\obj\Release\BOL.dll
+D:\Video Tutorial\MVC Project\Project\BOL\obj\Release\BOL.pdb
+F:\MVC Project\Project\BOL\bin\Release\BOL.dll.config
+F:\MVC Project\Project\BOL\bin\Release\BOL.dll
+F:\MVC Project\Project\BOL\bin\Release\BOL.pdb
+F:\MVC Project\Project\BOL\bin\Release\EntityFramework.dll
+F:\MVC Project\Project\BOL\bin\Release\EntityFramework.SqlServer.dll
+F:\MVC Project\Project\BOL\bin\Release\EntityFramework.xml
+F:\MVC Project\Project\BOL\bin\Release\EntityFramework.SqlServer.xml
+F:\MVC Project\Project\BOL\obj\Release\BOL.dll
+F:\MVC Project\Project\BOL\obj\Release\BOL.pdb
+F:\Downloads\Project-Advanced\Project\BOL\bin\Release\BOL.dll.config
+F:\Downloads\Project-Advanced\Project\BOL\bin\Release\BOL.dll
+F:\Downloads\Project-Advanced\Project\BOL\bin\Release\BOL.pdb
+F:\Downloads\Project-Advanced\Project\BOL\bin\Release\EntityFramework.dll
+F:\Downloads\Project-Advanced\Project\BOL\bin\Release\EntityFramework.SqlServer.dll
+F:\Downloads\Project-Advanced\Project\BOL\bin\Release\EntityFramework.xml
+F:\Downloads\Project-Advanced\Project\BOL\bin\Release\EntityFramework.SqlServer.xml
+F:\Downloads\Project-Advanced\Project\BOL\obj\Release\BOL.dll
+F:\Downloads\Project-Advanced\Project\BOL\obj\Release\BOL.pdb
+F:\Downloads\Project-Advanced\Project\BOL\obj\Release\BOL.csprojResolveAssemblyReference.cache
+F:\MVC Project\Project-Advanced\Project\BOL\bin\Release\BOL.dll.config
+F:\MVC Project\Project-Advanced\Project\BOL\bin\Release\BOL.dll
+F:\MVC Project\Project-Advanced\Project\BOL\bin\Release\BOL.pdb
+F:\MVC Project\Project-Advanced\Project\BOL\bin\Release\EntityFramework.dll
+F:\MVC Project\Project-Advanced\Project\BOL\bin\Release\EntityFramework.SqlServer.dll
+F:\MVC Project\Project-Advanced\Project\BOL\bin\Release\EntityFramework.xml
+F:\MVC Project\Project-Advanced\Project\BOL\bin\Release\EntityFramework.SqlServer.xml
+F:\MVC Project\Project-Advanced\Project\BOL\obj\Release\BOL.dll
+F:\MVC Project\Project-Advanced\Project\BOL\obj\Release\BOL.pdb
+D:\webdownload\Project-Advanced\Project\BOL\bin\Release\BOL.dll.config
+D:\webdownload\Project-Advanced\Project\BOL\bin\Release\BOL.dll
+D:\webdownload\Project-Advanced\Project\BOL\bin\Release\BOL.pdb
+D:\webdownload\Project-Advanced\Project\BOL\bin\Release\EntityFramework.dll
+D:\webdownload\Project-Advanced\Project\BOL\bin\Release\EntityFramework.SqlServer.dll
+D:\webdownload\Project-Advanced\Project\BOL\bin\Release\EntityFramework.xml
+D:\webdownload\Project-Advanced\Project\BOL\bin\Release\EntityFramework.SqlServer.xml
+D:\webdownload\Project-Advanced\Project\BOL\obj\Release\BOL.csprojResolveAssemblyReference.cache
+D:\webdownload\Project-Advanced\Project\BOL\obj\Release\BOL.csproj.CoreCompileInputs.cache
+D:\webdownload\Project-Advanced\Project\BOL\obj\Release\BOL.dll
+D:\webdownload\Project-Advanced\Project\BOL\obj\Release\BOL.pdb

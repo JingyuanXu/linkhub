@@ -1,0 +1,57 @@
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\BLL.dll
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\BLL.pdb
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\BOL.dll
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\DAL.dll
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\EntityFramework.dll
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\BOL.pdb
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\DAL.pdb
+D:\Video Tutorial\MVC Project\Project\BLL\bin\Release\EntityFramework.xml
+D:\Video Tutorial\MVC Project\Project\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\Video Tutorial\MVC Project\Project\BLL\obj\Release\BLL.dll
+D:\Video Tutorial\MVC Project\Project\BLL\obj\Release\BLL.pdb
+F:\MVC Project\Project\BLL\bin\Release\BLL.dll
+F:\MVC Project\Project\BLL\bin\Release\BLL.pdb
+F:\MVC Project\Project\BLL\bin\Release\BOL.dll
+F:\MVC Project\Project\BLL\bin\Release\DAL.dll
+F:\MVC Project\Project\BLL\bin\Release\EntityFramework.dll
+F:\MVC Project\Project\BLL\bin\Release\BOL.pdb
+F:\MVC Project\Project\BLL\bin\Release\DAL.pdb
+F:\MVC Project\Project\BLL\bin\Release\EntityFramework.xml
+F:\MVC Project\Project\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+F:\MVC Project\Project\BLL\obj\Release\BLL.dll
+F:\MVC Project\Project\BLL\obj\Release\BLL.pdb
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\BLL.dll
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\BLL.pdb
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\BOL.dll
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\DAL.dll
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\EntityFramework.dll
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\BOL.pdb
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\DAL.pdb
+F:\Downloads\Project-Advanced\Project\BLL\bin\Release\EntityFramework.xml
+F:\Downloads\Project-Advanced\Project\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+F:\Downloads\Project-Advanced\Project\BLL\obj\Release\BLL.dll
+F:\Downloads\Project-Advanced\Project\BLL\obj\Release\BLL.pdb
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\BLL.dll
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\BLL.pdb
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\BOL.dll
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\DAL.dll
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\EntityFramework.dll
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\BOL.pdb
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\DAL.pdb
+F:\MVC Project\Project-Advanced\Project\BLL\bin\Release\EntityFramework.xml
+F:\MVC Project\Project-Advanced\Project\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+F:\MVC Project\Project-Advanced\Project\BLL\obj\Release\BLL.dll
+F:\MVC Project\Project-Advanced\Project\BLL\obj\Release\BLL.pdb
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\BLL.dll
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\BLL.pdb
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\BOL.dll
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\DAL.dll
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\EntityFramework.dll
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\BOL.pdb
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\BOL.dll.config
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\DAL.pdb
+D:\webdownload\Project-Advanced\Project\BLL\bin\Release\EntityFramework.xml
+D:\webdownload\Project-Advanced\Project\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\webdownload\Project-Advanced\Project\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\webdownload\Project-Advanced\Project\BLL\obj\Release\BLL.dll
+D:\webdownload\Project-Advanced\Project\BLL\obj\Release\BLL.pdb
